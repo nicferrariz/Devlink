@@ -15,5 +15,4 @@ function toggleMode(){
     img.setAttribute("alt","Foto de Nicole, segurando um celular")
   
   } 
- 
  }
